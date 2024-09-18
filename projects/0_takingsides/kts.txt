@@ -1,0 +1,14 @@
+Topic: algorithmic sentencing
+
+argument for: humans r also unjust and AI would be less impacted by circumstances than ppl
+
+automated decision-making (ADM)
+
+humans still have to decide what the offense is
+input would depend on judicial discretion
+sentencing requires careful weighing of a range of factors
+
+objections:
+   - inherent superiority of human sentencing
+       ADM can't take all the unique features in and weigh them
+       too complex for an algorithm, 
