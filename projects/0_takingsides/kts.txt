@@ -12,3 +12,18 @@ objections:
    - inherent superiority of human sentencing
        ADM can't take all the unique features in and weigh them
        too complex for an algorithm, 
+       --> first part: too many factors that an algorithm cannot take into account
+              -true but only a small amount of factors are relevant to sentencing
+                 --> what factors are considered? depends on the theory you are using
+                        - retributivist (compensation based)
+                        - restorative (utilitarian - maximize happiness)
+                        --> regardless of whetehr carried out by human judge or ADM
+       --> second part: human judgement >
+              - false: human judgement is unsuited to weighing multiple factors 
+
+
+https://philpapers.org/archive/THOIEM-2.pdf 
+
+https://www.tandfonline.com/doi/full/10.1080/0731129X.2023.2275967
+
+https://link.springer.com/article/10.1007/s43681-024-00442-5
