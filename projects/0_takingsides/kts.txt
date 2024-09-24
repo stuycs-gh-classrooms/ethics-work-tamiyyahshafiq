@@ -1,6 +1,13 @@
 Topic: algorithmic sentencing
 
 argument for: humans r also unjust and AI would be less impacted by circumstances than ppl
+- efficient: standardize, reducing human bias, can process quickly so faster, gets rid of individual biases or human emotions
+- data-driven decisions can lead to more informed decisions
+- can be transparent if public access
+
+argument against:
+- lack of transparency
+- bias from historical data
 
 automated decision-making (ADM)
 
@@ -20,10 +27,51 @@ objections:
                         --> regardless of whetehr carried out by human judge or ADM
        --> second part: human judgement >
               - false: human judgement is unsuited to weighing multiple factors 
+                  --> intuitive judgement "system 1 thinking" by cognitive sci is unsuited to the complex task of weighing multiple elements
+                       THIS IS WHY ppl say lack of transparency, ADM can calculae mutliple including nonlinear and interacting features and weighed factors
+                        as complexity goes up, exceeds human ability
+   - if trained on historic data, bias
+       --> only if we use machine learning models (know target, examples, history,  and can predict by looking at correlations)
+       --> well-established set of theories of sentencing, teach the model this
 
+CONDITIONAL:
+1) properly designed ADM will better approximate sentencee
+2) we have moral reason to employ sentencing method that best approximates the just senteence
+    - if u think there is just sentencing, u accept
+3) therefore, moral reason to apply ADM
+
+for all counterclaims, either 1) deny ADM has undesirable property or 2) say that humans do too
+
+objection 2: Privacy
+  - access to large amount of data in development and use phasees, and this decreasees privacy of those data is abt
+  - doeesn't need more/diff data than a human judge  bc no  machine learning, do not need data just ethics or data already in criminological literature (development phase)
+  - use: doesn't need more than a human
+
+object 3: transparency
+  - opaque so can't challenge or review decision - those subject to it shld be able to understand basis
+  - transparent if relevant person can understand how it works (peerson can predict output for input)
+  - only be if priv companies who want  code  private, but you could  have it fully vailable to public
+  - complexity from factors also  to human
+  - human-deecision making is not transparent, even ur ownd ecisions, thats why often put inaccurate reasons to a claim
+
+object 4: bias
+  - bias usually bc of existing inequalities 
+  - 2 ways becomes biased: reproduce bias in training data, or employ features whose values vary a cross relevant populations (like highr risk for communs w higher pov rate)
+  - no training data bc no machine learnning, but can to second type
+	- solution: direct discrimination in  favor of a minority making more lenientt "affirmative action"
+  - also humans
+
+premise: just sentencing existts
 
 https://philpapers.org/archive/THOIEM-2.pdf 
 
 https://www.tandfonline.com/doi/full/10.1080/0731129X.2023.2275967
 
 https://link.springer.com/article/10.1007/s43681-024-00442-5
+
+
+tradittional v human: jury verdict, judge sentence, parole board rejoin societety --> can  reduce bias by using AI
+
+COMPAS risk a ssessment took over doctor/psychologistt
+
+if same senteneces then replace?
